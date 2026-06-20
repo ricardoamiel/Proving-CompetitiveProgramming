@@ -1,4 +1,4 @@
-# Competitve Programming path
+# Competitive Programming path
 
 Our team is made up of one Data Science student and one Computer Science student. Today, I was talking with some friends whose primary focus is competitive programming, and they spent days convincing me to give this world a try.
 
